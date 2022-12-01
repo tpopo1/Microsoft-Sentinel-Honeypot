@@ -31,4 +31,4 @@ In the graphic above you can see that once I opened the firewall requests starte
 Depicted in the graphic above is a world map highlighting the areas where the failed rdp attempts originated from. The Key players include Panama, Hong Kong, and Russia. Roughly 3400 failed rdp attempts were captured by Log Analytics Workspace and Azure Sentinnel, but there were MANY more attempts before I was able to get everything working correctly. The real number of failed attempts would be in the ballpark of 6000-7000.
 
 
-credit goes to joshmadakor1 as the original creator of this lab.
+
